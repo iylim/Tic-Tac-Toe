@@ -1,0 +1,28 @@
+
+table {
+    margin: 100px auto;
+ border-collapse: collapse;
+font-family: "Arial";
+font-size: 75px;
+}
+
+tr {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border: 3px solid #000000;
+    
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border: 3px solid #000000;
+   
+}
+
+button {
+    text-align: center;
+    margin: auto;
+}
